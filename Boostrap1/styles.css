@@ -1,0 +1,7 @@
+.telly{
+    flex-basis: 25%;
+}
+
+.telly img{
+    width: 200px;
+}
